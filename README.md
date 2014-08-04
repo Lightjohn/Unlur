@@ -9,8 +9,7 @@ Ugly code but nice GUI.
 
 This code belongs to their original owners:
 
-Romain DESGROUAS,
-
+Romain DESGROUAS, 
 Alexandre GAUTHIER, 
 Grégory LÉCAULT, 
 Jonathan LEGER, 
